@@ -1,0 +1,17 @@
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/obj/Debug/Assembly-CSharp.dll
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/UnityEngine.dll
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/UnityEditor.dll
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/jackiengo/Documents/Unity_Projects/jngo42_MemoryGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
